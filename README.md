@@ -19,5 +19,5 @@ x2 = 2
 y1 = 3
 y2 = 4
 
-The total distance of the two points is = 
+The total distance of the two points is = 1.41
  
