@@ -1,6 +1,6 @@
 # Distance-calculator-
 
-## This calculates the distance of two points
+## This calculates the distance between two points
 
 ## how to run
 1. Open the program
