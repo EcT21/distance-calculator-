@@ -4,8 +4,8 @@
 
 ## how to run
 1. Open the program
-2. Enter the required values for the program to solve (x1, y1, x2, y2)
-3. Let the magic happen
+2. Run the program
+3. Enter the required values for the program to solve (x1, y1, x2, y2)
 
 ## input needed
 1. enter x1
